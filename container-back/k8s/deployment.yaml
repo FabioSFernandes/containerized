@@ -1,0 +1,20 @@
+apiVersion: apps/v1
+kind: Deployment
+metadata:
+  name: container-back
+  namespace: container-development
+spec:
+  replicas: 2 # Dois containers para load balancing
+  selector:
+    matchLabels:
+      app: container-back
+  template:
+    metadata:
+      labels:
+        app: container-back
+    spec:
+      containers:
+      - name: container-back
+        image: seu-repositorio/container-back:latest
+        ports:
+        - containerPort: 80

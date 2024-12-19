@@ -1,0 +1,11 @@
+@container_back_HostAddress = http://localhost:5114
+
+GET {{container_back_HostAddress}}/todos/
+Accept: application/json
+
+###
+
+GET {{container_back_HostAddress}}/todos/1
+Accept: application/json
+
+###

@@ -1,0 +1,58 @@
+{
+  "Version": 1,
+  "WorkspaceRootPath": "C:\\Users\\fabio\\projects\\portfolio\\containerized\\",
+  "Documents": [
+    {
+      "AbsoluteMoniker": "D:0:0:{A552B063-3C1F-4900-88D2-25C3F2D6EE9F}|container-back\\container-back.csproj|c:\\users\\fabio\\projects\\portfolio\\containerized\\container-back\\k8s\\service.yaml||{8B382828-6202-11D1-8870-0000F87579D2}",
+      "RelativeMoniker": "D:0:0:{A552B063-3C1F-4900-88D2-25C3F2D6EE9F}|container-back\\container-back.csproj|solutionrelative:container-back\\k8s\\service.yaml||{8B382828-6202-11D1-8870-0000F87579D2}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{A552B063-3C1F-4900-88D2-25C3F2D6EE9F}|container-back\\container-back.csproj|C:\\Users\\fabio\\projects\\portfolio\\containerized\\container-back\\k8s\\deployment.yaml||{8B382828-6202-11D1-8870-0000F87579D2}",
+      "RelativeMoniker": "D:0:0:{A552B063-3C1F-4900-88D2-25C3F2D6EE9F}|container-back\\container-back.csproj|solutionrelative:container-back\\k8s\\deployment.yaml||{8B382828-6202-11D1-8870-0000F87579D2}"
+    }
+  ],
+  "DocumentGroupContainers": [
+    {
+      "Orientation": 0,
+      "VerticalTabListWidth": 256,
+      "DocumentGroups": [
+        {
+          "DockedWidth": 186,
+          "SelectedChildIndex": 1,
+          "Children": [
+            {
+              "$type": "Bookmark",
+              "Name": "ST:0:0:{e506b91c-c606-466a-90a9-123d1d1e12b3}"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 0,
+              "Title": "service.yaml",
+              "DocumentMoniker": "C:\\Users\\fabio\\projects\\portfolio\\containerized\\container-back\\k8s\\service.yaml",
+              "RelativeDocumentMoniker": "container-back\\k8s\\service.yaml",
+              "ToolTip": "C:\\Users\\fabio\\projects\\portfolio\\containerized\\container-back\\k8s\\service.yaml",
+              "RelativeToolTip": "container-back\\k8s\\service.yaml",
+              "ViewState": "AQIAAAAAAAAAAAAAAADwvwkAAAATAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.003775|",
+              "WhenOpened": "2024-03-05T14:53:37.373Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 1,
+              "Title": "deployment.yaml",
+              "DocumentMoniker": "C:\\Users\\fabio\\projects\\portfolio\\containerized\\container-back\\k8s\\deployment.yaml",
+              "RelativeDocumentMoniker": "container-back\\k8s\\deployment.yaml",
+              "ToolTip": "C:\\Users\\fabio\\projects\\portfolio\\containerized\\container-back\\k8s\\deployment.yaml",
+              "RelativeToolTip": "container-back\\k8s\\deployment.yaml",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAsAAAANAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.003775|",
+              "WhenOpened": "2024-03-05T14:53:32.719Z",
+              "EditorCaption": ""
+            }
+          ]
+        }
+      ]
+    }
+  ]
+}
